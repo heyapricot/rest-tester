@@ -10,6 +10,9 @@ class UsersController < ApplicationController
   end
 
   def edit
+    render "index"
   end
-
+  
+  def create
+  end
 end
