@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+continue with https://www.railstutorial.org/book/filling_in_the_layout
